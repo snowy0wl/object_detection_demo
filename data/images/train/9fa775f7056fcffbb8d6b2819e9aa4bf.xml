@@ -1,0 +1,26 @@
+<annotation>
+	<folder>picture</folder>
+	<filename>9fa775f7056fcffbb8d6b2819e9aa4bf.jpg</filename>
+	<path>E:\Download\windows_v1.6.0\windows_v1.6.0\data\picture\9fa775f7056fcffbb8d6b2819e9aa4bf.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>1024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Mobile Phone</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>71</xmin>
+			<ymin>23</ymin>
+			<xmax>615</xmax>
+			<ymax>982</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>picture</folder>
+	<filename>4b2feb37-67f6-4ae2-9e4c-df67f59df487.jpg</filename>
+	<path>E:\Download\windows_v1.6.0\windows_v1.6.0\data\picture\4b2feb37-67f6-4ae2-9e4c-df67f59df487.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1000</width>
+		<height>1000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Power Supply</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>8</xmin>
+			<ymin>142</ymin>
+			<xmax>994</xmax>
+			<ymax>878</ymax>
+		</bndbox>
+	</object>
+</annotation>

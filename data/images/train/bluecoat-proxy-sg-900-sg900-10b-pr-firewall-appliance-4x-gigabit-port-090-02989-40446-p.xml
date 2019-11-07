@@ -1,0 +1,26 @@
+<annotation>
+	<folder>picture</folder>
+	<filename>bluecoat-proxy-sg-900-sg900-10b-pr-firewall-appliance-4x-gigabit-port-090-02989-40446-p.jpg</filename>
+	<path>E:\Download\windows_v1.6.0\windows_v1.6.0\data\picture\bluecoat-proxy-sg-900-sg900-10b-pr-firewall-appliance-4x-gigabit-port-090-02989-40446-p.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1600</width>
+		<height>781</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Load Balancer</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>34</xmin>
+			<ymin>568</ymin>
+			<xmax>1557</xmax>
+			<ymax>756</ymax>
+		</bndbox>
+	</object>
+</annotation>

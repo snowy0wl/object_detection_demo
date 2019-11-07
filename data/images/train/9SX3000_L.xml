@@ -1,0 +1,26 @@
+<annotation>
+	<folder>picture</folder>
+	<filename>9SX3000_L.jpg</filename>
+	<path>E:\Download\windows_v1.6.0\windows_v1.6.0\data\picture\9SX3000_L.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2400</width>
+		<height>2400</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>UPS</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>182</xmin>
+			<ymin>174</ymin>
+			<xmax>2145</xmax>
+			<ymax>2216</ymax>
+		</bndbox>
+	</object>
+</annotation>

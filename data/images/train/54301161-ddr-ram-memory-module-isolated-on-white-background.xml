@@ -1,0 +1,26 @@
+<annotation>
+	<folder>picture</folder>
+	<filename>54301161-ddr-ram-memory-module-isolated-on-white-background.jpg</filename>
+	<path>E:\Download\windows_v1.6.0\windows_v1.6.0\data\picture\54301161-ddr-ram-memory-module-isolated-on-white-background.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1300</width>
+		<height>944</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Desktop RAM</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>69</xmin>
+			<ymin>50</ymin>
+			<xmax>1274</xmax>
+			<ymax>888</ymax>
+		</bndbox>
+	</object>
+</annotation>
