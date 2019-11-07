@@ -1,0 +1,26 @@
+<annotation>
+	<folder>picture</folder>
+	<filename>DK5Q-front-white.jpg</filename>
+	<path>E:\Download\windows_v1.6.0\windows_v1.6.0\data\picture\DK5Q-front-white.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2400</width>
+		<height>1200</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Keyboard</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>51</xmin>
+			<ymin>36</ymin>
+			<xmax>2372</xmax>
+			<ymax>1165</ymax>
+		</bndbox>
+	</object>
+</annotation>

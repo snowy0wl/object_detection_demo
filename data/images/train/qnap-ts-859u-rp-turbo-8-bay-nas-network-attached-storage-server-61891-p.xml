@@ -1,0 +1,26 @@
+<annotation>
+	<folder>picture</folder>
+	<filename>qnap-ts-859u-rp-turbo-8-bay-nas-network-attached-storage-server-61891-p.jpg</filename>
+	<path>E:\Download\windows_v1.6.0\windows_v1.6.0\data\picture\qnap-ts-859u-rp-turbo-8-bay-nas-network-attached-storage-server-61891-p.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1600</width>
+		<height>769</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>NAS</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>25</xmin>
+			<ymin>324</ymin>
+			<xmax>1600</xmax>
+			<ymax>765</ymax>
+		</bndbox>
+	</object>
+</annotation>

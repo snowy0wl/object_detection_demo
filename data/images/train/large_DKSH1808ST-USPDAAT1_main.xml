@@ -1,0 +1,26 @@
+<annotation>
+	<folder>picture</folder>
+	<filename>large_DKSH1808ST-USPDAAT1_main.png</filename>
+	<path>E:\Download\windows_v1.6.0\windows_v1.6.0\data\picture\large_DKSH1808ST-USPDAAT1_main.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2400</width>
+		<height>763</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Keyboard</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>17</xmin>
+			<ymin>40</ymin>
+			<xmax>2400</xmax>
+			<ymax>751</ymax>
+		</bndbox>
+	</object>
+</annotation>
