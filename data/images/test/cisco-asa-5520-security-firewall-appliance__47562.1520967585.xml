@@ -1,0 +1,26 @@
+<annotation>
+	<folder>picture</folder>
+	<filename>cisco-asa-5520-security-firewall-appliance__47562.1520967585.jpg</filename>
+	<path>E:\Download\windows_v1.6.0\windows_v1.6.0\data\picture\cisco-asa-5520-security-firewall-appliance__47562.1520967585.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>1280</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Firewall</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>49</xmin>
+			<ymin>622</ymin>
+			<xmax>1266</xmax>
+			<ymax>863</ymax>
+		</bndbox>
+	</object>
+</annotation>
