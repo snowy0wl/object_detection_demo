@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>picture</folder>
+	<filename>1123536224.g_400-w_g.jpg</filename>
+	<path>E:\Download\windows_v1.6.0\windows_v1.6.0\data\picture\1123536224.g_400-w_g.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>400</width>
+		<height>400</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Hard Disk Enclosure</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>28</xmin>
+			<ymin>90</ymin>
+			<xmax>372</xmax>
+			<ymax>343</ymax>
+		</bndbox>
+	</object>
+</annotation>

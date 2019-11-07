@@ -1,0 +1,26 @@
+<annotation>
+	<folder>picture</folder>
+	<filename>1488192354_1322072.jpg</filename>
+	<path>E:\Download\windows_v1.6.0\windows_v1.6.0\data\picture\1488192354_1322072.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2500</width>
+		<height>2500</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Portable Hard Drive</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>388</xmin>
+			<ymin>23</ymin>
+			<xmax>2063</xmax>
+			<ymax>2478</ymax>
+		</bndbox>
+	</object>
+</annotation>

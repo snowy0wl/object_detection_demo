@@ -1,0 +1,26 @@
+<annotation>
+	<folder>picture</folder>
+	<filename>kingston-ddr4-2666mhz-notebook-ram.jpg.png</filename>
+	<path>E:\Download\windows_v1.6.0\windows_v1.6.0\data\picture\kingston-ddr4-2666mhz-notebook-ram.jpg.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>800</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Notebook RAM</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>21</xmin>
+			<ymin>212</ymin>
+			<xmax>758</xmax>
+			<ymax>728</ymax>
+		</bndbox>
+	</object>
+</annotation>

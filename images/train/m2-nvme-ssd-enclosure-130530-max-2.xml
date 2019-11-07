@@ -1,0 +1,26 @@
+<annotation>
+	<folder>picture</folder>
+	<filename>m2-nvme-ssd-enclosure-130530-max-2.jpg</filename>
+	<path>E:\Download\windows_v1.6.0\windows_v1.6.0\data\picture\m2-nvme-ssd-enclosure-130530-max-2.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1600</width>
+		<height>1048</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>M2 SSD Enclosure</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>63</xmin>
+			<ymin>62</ymin>
+			<xmax>1553</xmax>
+			<ymax>975</ymax>
+		</bndbox>
+	</object>
+</annotation>

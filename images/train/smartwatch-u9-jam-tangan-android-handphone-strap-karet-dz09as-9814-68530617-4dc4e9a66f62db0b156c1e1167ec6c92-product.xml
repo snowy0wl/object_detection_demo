@@ -1,0 +1,26 @@
+<annotation>
+	<folder>picture</folder>
+	<filename>smartwatch-u9-jam-tangan-android-handphone-strap-karet-dz09as-9814-68530617-4dc4e9a66f62db0b156c1e1167ec6c92-product.jpg</filename>
+	<path>E:\Download\windows_v1.6.0\windows_v1.6.0\data\picture\smartwatch-u9-jam-tangan-android-handphone-strap-karet-dz09as-9814-68530617-4dc4e9a66f62db0b156c1e1167ec6c92-product.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1050</width>
+		<height>1050</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Smart Watch</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>22</xmin>
+			<ymin>5</ymin>
+			<xmax>1050</xmax>
+			<ymax>1034</ymax>
+		</bndbox>
+	</object>
+</annotation>

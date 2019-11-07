@@ -1,0 +1,26 @@
+<annotation>
+	<folder>picture</folder>
+	<filename>ga-z390i-aorus-pro-wifi-box-large.jpg</filename>
+	<path>E:\Download\windows_v1.6.0\windows_v1.6.0\data\picture\ga-z390i-aorus-pro-wifi-box-large.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3000</width>
+		<height>1769</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Motherboard</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1416</xmin>
+			<ymin>1</ymin>
+			<xmax>2947</xmax>
+			<ymax>1726</ymax>
+		</bndbox>
+	</object>
+</annotation>

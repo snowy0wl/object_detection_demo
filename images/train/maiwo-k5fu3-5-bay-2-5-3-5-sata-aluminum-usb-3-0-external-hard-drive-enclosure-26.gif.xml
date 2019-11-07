@@ -1,0 +1,26 @@
+<annotation>
+	<folder>picture</folder>
+	<filename>maiwo-k5fu3-5-bay-2-5-3-5-sata-aluminum-usb-3-0-external-hard-drive-enclosure-26.gif.jpg</filename>
+	<path>E:\Download\windows_v1.6.0\windows_v1.6.0\data\picture\maiwo-k5fu3-5-bay-2-5-3-5-sata-aluminum-usb-3-0-external-hard-drive-enclosure-26.gif.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>800</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Hard Disk Enclosure</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>60</xmin>
+			<ymin>1</ymin>
+			<xmax>722</xmax>
+			<ymax>797</ymax>
+		</bndbox>
+	</object>
+</annotation>

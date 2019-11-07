@@ -1,0 +1,26 @@
+<annotation>
+	<folder>picture</folder>
+	<filename>Checkpoint-13500-appliance.jpg</filename>
+	<path>E:\Download\windows_v1.6.0\windows_v1.6.0\data\picture\Checkpoint-13500-appliance.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2529</width>
+		<height>1159</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Firewall</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>118</xmin>
+			<ymin>225</ymin>
+			<xmax>2442</xmax>
+			<ymax>873</ymax>
+		</bndbox>
+	</object>
+</annotation>

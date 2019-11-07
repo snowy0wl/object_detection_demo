@@ -1,0 +1,26 @@
+<annotation>
+	<folder>picture</folder>
+	<filename>81tjLksKixL._SL1500_.jpg</filename>
+	<path>E:\Download\windows_v1.6.0\windows_v1.6.0\data\picture\81tjLksKixL._SL1500_.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1500</width>
+		<height>1500</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Portable Hard Drive</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>272</xmin>
+			<ymin>39</ymin>
+			<xmax>1246</xmax>
+			<ymax>1469</ymax>
+		</bndbox>
+	</object>
+</annotation>

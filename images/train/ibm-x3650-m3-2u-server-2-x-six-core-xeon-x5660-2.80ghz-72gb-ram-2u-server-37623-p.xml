@@ -1,0 +1,26 @@
+<annotation>
+	<folder>picture</folder>
+	<filename>ibm-x3650-m3-2u-server-2-x-six-core-xeon-x5660-2.80ghz-72gb-ram-2u-server-37623-p.jpg</filename>
+	<path>E:\Download\windows_v1.6.0\windows_v1.6.0\data\picture\ibm-x3650-m3-2u-server-2-x-six-core-xeon-x5660-2.80ghz-72gb-ram-2u-server-37623-p.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1600</width>
+		<height>706</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Server</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>61</xmin>
+			<ymin>34</ymin>
+			<xmax>1526</xmax>
+			<ymax>635</ymax>
+		</bndbox>
+	</object>
+</annotation>

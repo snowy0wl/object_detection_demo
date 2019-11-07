@@ -1,0 +1,26 @@
+<annotation>
+	<folder>picture</folder>
+	<filename>814a95c9-d8fa-4aa5-adac-10c270f5ac9c_1.0b064cbaa08b39500fb4ac8f50af5bdd.jpeg</filename>
+	<path>E:\Download\windows_v1.6.0\windows_v1.6.0\data\picture\814a95c9-d8fa-4aa5-adac-10c270f5ac9c_1.0b064cbaa08b39500fb4ac8f50af5bdd.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1001</width>
+		<height>1001</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Smart Watch</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>43</xmin>
+			<ymin>14</ymin>
+			<xmax>939</xmax>
+			<ymax>966</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>picture</folder>
+	<filename>orico-35-inch-hard-drive-enclosure-type-c-connecti.jpg</filename>
+	<path>E:\Download\windows_v1.6.0\windows_v1.6.0\data\picture\orico-35-inch-hard-drive-enclosure-type-c-connecti.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Hard Disk Enclosure</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>15</xmin>
+			<ymin>127</ymin>
+			<xmax>587</xmax>
+			<ymax>481</ymax>
+		</bndbox>
+	</object>
+</annotation>

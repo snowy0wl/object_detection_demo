@@ -1,0 +1,26 @@
+<annotation>
+	<folder>picture</folder>
+	<filename>1473958123_1268962.jpg</filename>
+	<path>E:\Download\windows_v1.6.0\windows_v1.6.0\data\picture\1473958123_1268962.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2500</width>
+		<height>2500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>M2 SSD</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>731</ymin>
+			<xmax>2500</xmax>
+			<ymax>1799</ymax>
+		</bndbox>
+	</object>
+</annotation>

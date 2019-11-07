@@ -1,0 +1,38 @@
+<annotation>
+	<folder>picture</folder>
+	<filename>500gb-sata-3-5-wd-desktop-internal-hard-disk-drive-hdd-wd5000aakx-mymaxpro-1807-26-mymaxpro@26.jpg</filename>
+	<path>E:\Download\windows_v1.6.0\windows_v1.6.0\data\picture\500gb-sata-3-5-wd-desktop-internal-hard-disk-drive-hdd-wd5000aakx-mymaxpro-1807-26-mymaxpro@26.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>772</width>
+		<height>438</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>3.5" Hard Drive</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>28</xmin>
+			<ymin>3</ymin>
+			<xmax>756</xmax>
+			<ymax>433</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>SATA Hard Drive</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>484</xmin>
+			<ymin>75</ymin>
+			<xmax>585</xmax>
+			<ymax>112</ymax>
+		</bndbox>
+	</object>
+</annotation>

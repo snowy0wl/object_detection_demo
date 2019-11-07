@@ -1,0 +1,26 @@
+<annotation>
+	<folder>picture</folder>
+	<filename>GS348_21Mar17_hero.png</filename>
+	<path>E:\Download\windows_v1.6.0\windows_v1.6.0\data\picture\GS348_21Mar17_hero.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3300</width>
+		<height>2100</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Switch</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>99</xmin>
+			<ymin>619</ymin>
+			<xmax>3227</xmax>
+			<ymax>1567</ymax>
+		</bndbox>
+	</object>
+</annotation>

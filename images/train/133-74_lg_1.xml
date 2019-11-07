@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>picture</folder>
+	<filename>133-74_lg_1.jpg</filename>
+	<path>E:\Download\windows_v1.6.0\windows_v1.6.0\data\picture\133-74_lg_1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2048</width>
+		<height>1536</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>HDD Docking Station</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>15</ymin>
+			<xmax>2042</xmax>
+			<ymax>1535</ymax>
+		</bndbox>
+	</object>
+</annotation>

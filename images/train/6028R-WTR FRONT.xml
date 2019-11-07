@@ -1,0 +1,26 @@
+<annotation>
+	<folder>picture</folder>
+	<filename>6028R-WTR FRONT.jpg</filename>
+	<path>E:\Download\windows_v1.6.0\windows_v1.6.0\data\picture\6028R-WTR FRONT.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2048</width>
+		<height>1536</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Server</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>31</xmin>
+			<ymin>543</ymin>
+			<xmax>2022</xmax>
+			<ymax>978</ymax>
+		</bndbox>
+	</object>
+</annotation>

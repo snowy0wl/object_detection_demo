@@ -1,0 +1,26 @@
+<annotation>
+	<folder>picture</folder>
+	<filename>fujitsu-siemens-1165w-hot-swap-power-supply-psu-s26113-e531-v30-a3c40094088-48336-p.jpg</filename>
+	<path>E:\Download\windows_v1.6.0\windows_v1.6.0\data\picture\fujitsu-siemens-1165w-hot-swap-power-supply-psu-s26113-e531-v30-a3c40094088-48336-p.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1028</width>
+		<height>1200</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Power Supply</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>75</xmin>
+			<ymin>62</ymin>
+			<xmax>971</xmax>
+			<ymax>1184</ymax>
+		</bndbox>
+	</object>
+</annotation>

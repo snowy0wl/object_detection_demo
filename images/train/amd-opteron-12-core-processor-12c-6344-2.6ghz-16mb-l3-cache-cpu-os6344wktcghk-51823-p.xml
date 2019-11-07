@@ -1,0 +1,26 @@
+<annotation>
+	<folder>picture</folder>
+	<filename>amd-opteron-12-core-processor-12c-6344-2.6ghz-16mb-l3-cache-cpu-os6344wktcghk-51823-p.jpg</filename>
+	<path>E:\Download\windows_v1.6.0\windows_v1.6.0\data\picture\amd-opteron-12-core-processor-12c-6344-2.6ghz-16mb-l3-cache-cpu-os6344wktcghk-51823-p.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>960</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Processor</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>23</xmin>
+			<ymin>20</ymin>
+			<xmax>1270</xmax>
+			<ymax>916</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>picture</folder>
+	<filename>61rwNJ-p0EL._SL1500_.jpg</filename>
+	<path>E:\Download\windows_v1.6.0\windows_v1.6.0\data\picture\61rwNJ-p0EL._SL1500_.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1500</width>
+		<height>1500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>M2 SSD Enclosure</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>18</xmin>
+			<ymin>505</ymin>
+			<xmax>1107</xmax>
+			<ymax>1401</ymax>
+		</bndbox>
+	</object>
+</annotation>

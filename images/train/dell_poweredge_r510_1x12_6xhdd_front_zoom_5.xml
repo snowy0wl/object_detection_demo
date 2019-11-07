@@ -1,0 +1,26 @@
+<annotation>
+	<folder>picture</folder>
+	<filename>dell_poweredge_r510_1x12_6xhdd_front_zoom_5.jpg</filename>
+	<path>E:\Download\windows_v1.6.0\windows_v1.6.0\data\picture\dell_poweredge_r510_1x12_6xhdd_front_zoom_5.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2400</width>
+		<height>1600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Server</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>21</xmin>
+			<ymin>606</ymin>
+			<xmax>2369</xmax>
+			<ymax>1173</ymax>
+		</bndbox>
+	</object>
+</annotation>

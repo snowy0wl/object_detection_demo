@@ -1,0 +1,26 @@
+<annotation>
+	<folder>picture</folder>
+	<filename>western-digital-blue-500gb-2-5-sata-laptop-notebook-hard-disk-hdd-wd5000lpcx-7-dellservices-1807-31-F1125368_1.jpeg</filename>
+	<path>E:\Download\windows_v1.6.0\windows_v1.6.0\data\picture\western-digital-blue-500gb-2-5-sata-laptop-notebook-hard-disk-hdd-wd5000lpcx-7-dellservices-1807-31-F1125368_1.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1000</width>
+		<height>1000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>2.5" Hard Drive</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3</xmin>
+			<ymin>92</ymin>
+			<xmax>1000</xmax>
+			<ymax>897</ymax>
+		</bndbox>
+	</object>
+</annotation>

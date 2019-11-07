@@ -1,0 +1,26 @@
+<annotation>
+	<folder>picture</folder>
+	<filename>71l0TyOaMdL._SX466_.jpg</filename>
+	<path>E:\Download\windows_v1.6.0\windows_v1.6.0\data\picture\71l0TyOaMdL._SX466_.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>466</width>
+		<height>466</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>PCIE Graphics Card</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>11</xmin>
+			<ymin>142</ymin>
+			<xmax>461</xmax>
+			<ymax>413</ymax>
+		</bndbox>
+	</object>
+</annotation>
